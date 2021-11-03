@@ -1,5 +1,5 @@
 <?php
-$val = 1;
+$val = 0;
 
 while ($val <= 1337) {
 
