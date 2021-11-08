@@ -1,10 +1,10 @@
 <?php
 
-function bonjour ($jour = 1)
+function bonjour ($jour)
 {
     if ($jour == true)
     {
-        echo "bonjour";
+        echo "bonjour<br>";
     }
     elseif ($jour == false)
     {
