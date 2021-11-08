@@ -2,7 +2,7 @@
 $str = "Les choses que l'on possede finissent par nous posseder.";
 $v = 0;
 $r = 0;
-var_dump ($str);
+
 while (isset($str[$v]) == true)
 {
     while (isset($str[$r]) == isset($str[$v]))
